@@ -1,0 +1,20 @@
+*** Explanation ***
+
+This program 'bbcp' would read the content of the source file
+and then write the content it just read into the target file, until all the content of the 
+source file have been read.
+
+*******************
+
+
+*** Limitations ***
+
+The program only accepts two parameters.
+The source file can ONLY be a regular file.
+The target file can ONLY be either a regular file or a directory.
+
+*******************
+
+
+
+
